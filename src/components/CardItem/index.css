@@ -50,6 +50,7 @@
   padding: 20px;
   min-width: 300px;
   max-width: 350px;
+  background: #ffffff;
 }
 
 @media (min-width: 768px) {

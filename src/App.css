@@ -13,7 +13,7 @@ body {
 /* Write CSS code here */
 
 .app-container {
-  height: 100vh;
+  min-height: 100vh;
   background-color: #f4faff;
   background-size: cover;
   display: flex;
